@@ -70,14 +70,9 @@ web/.idea/
 *.cer
 *.crt
 
-# Images (optional, for local test assets)
+# Images
 assets/temp/
 assets/uploads/
 
 # Coverage
 coverage/
-
-# Firebase (if used)
-firebase_app_id_file.json
-google-services.json
-GoogleService-Info.plist
