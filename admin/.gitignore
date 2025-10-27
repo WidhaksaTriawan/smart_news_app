@@ -1,0 +1,83 @@
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Generated files
+*.class
+*.log
+*.pyc
+*.swp
+*.lock
+*.tmp
+*.bak
+*.old
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+android/gradlew
+android/gradlew.bat
+android/gradle-wrapper.jar
+android/gradle-wrapper.properties
+
+# VS Code
+.vscode/
+.idea/
+*.iml
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/.symlinks/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Web
+web/.dart_tool/
+web/.idea/
+
+# Logs
+*.log
+*.out
+
+# Environment & Secrets
+.env
+.env.*
+*.keystore
+*.jks
+*.p12
+*.pem
+*.cer
+*.crt
+
+# Images (optional, for local test assets)
+assets/temp/
+assets/uploads/
+
+# Coverage
+coverage/
+
+# Firebase (if used)
+firebase_app_id_file.json
+google-services.json
+GoogleService-Info.plist
